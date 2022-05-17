@@ -8,28 +8,28 @@ My hobbies are dynamic, and my curiosity leads me to pursue various interests. I
 
 ## Current Projects
 
-[**💃🕺 Kip**](https://kip.dance/) - It's Dance Time!
+### [**💃🕺 Kip**](https://kip.dance/) - It's Dance Time!
 -   [Progressive Web App](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps) that allows you to dance with friends. Think [SnapChat](https://www.snapchat.com/) meets [Just Dance](https://justdance.com/).
 -  Tech stack: [SvelteKit](https://kit.svelte.dev/), [Cloudflare Pages](https://developers.cloudflare.com/pages/) & [Functions](https://developers.cloudflare.com/pages/platform/functions), [TensorFlow.js](https://www.tensorflow.org/), MySQL, and more
 
-[**🌆 Panau Survival**](https://github.com/benank/Panau-Survival-Server) - Just Cause 2 Multiplayer Game Server
+### [**🌆 Panau Survival**](https://github.com/benank/Panau-Survival-Server) - Just Cause 2 Multiplayer Game Server
 -   Collection of custom scripts for a game server on [Just Cause 2 Multiplayer Mod](https://store.steampowered.com/app/259080/Just_Cause_2_Multiplayer_Mod/) that enables a [survival experience](https://en.wikipedia.org/wiki/Survival_game) for thousands of players by extending base-game features
 - Tech stack: Mostly Lua with some Node.js for advanced features, such as [proximity voice chat](https://github.com/benank/JC2MP-Voice-Chat)
 
 ## Past Projects
-[**🕺 DanceTime**](https://dancetime.io) - Predecessor to [Kip](https://kip.dance/)
+### [**🕺 DanceTime**](https://dancetime.io) - Predecessor to [Kip](https://kip.dance/)
 - Web app that allows you to dance to any YouTube video and get a realtime score using [realtime pose estimation](https://dev.to/benank/realtime-pose-comparison-with-tensorflow-js-42lk) through [MoveNet](https://blog.tensorflow.org/2021/05/next-generation-pose-detection-with-movenet-and-tensorflowjs.html); all you need is a webcam to get started
 - Tech stack: [Svelte](https://svelte.dev), [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview), [Azure Static Web Apps](https://docs.microsoft.com/en-us/azure/static-web-apps/overview), [TensorFlow.js](https://www.tensorflow.org/), [a WebExtension](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions), MySQL, and more
 
-[**💯 everyone.dance**](https://everyone.dance/) - A realtime score sharing system for [StepMania](https://www.stepmania.com/)
+### [**💯 everyone.dance**](https://everyone.dance/) - A realtime score sharing system for [StepMania](https://www.stepmania.com/)
 - Web app and cross-platform electron app that extends the base functionality of the StepMania game to allow for realtime online multiplayer dance matches
 - Tech stack: [React](https://reactjs.org/), [Electron](https://www.electronjs.org/), [Express](https://expressjs.com/), [socket.io](https://socket.io/), and more
 
-[**🔨 oof**](https://github.com/Paradigm-MP/oof) - Object-Oriented Framework for developing with Lua in [FiveM](https://fivem.net/) and [RedM](https://redm.gg/)
+### [**🔨 oof**](https://github.com/Paradigm-MP/oof) - Object-Oriented Framework for developing with Lua in [FiveM](https://fivem.net/) and [RedM](https://redm.gg/)
 - A native-abstraction framework designed to empower developers with object-oriented Lua capabilities in both FiveM and RedM
 - Tech stack: Lua
 
-[**🍿 StepMania Stream Interactivity**](https://github.com/benank/Stepmania-Stream-Interactivity) - Allow your viewers on [Twitch](twitch.tv/) to control your [StepMania](https://www.stepmania.com/) game
+### [**🍿 StepMania Stream Interactivity**](https://github.com/benank/Stepmania-Stream-Interactivity) - Allow your viewers on [Twitch](twitch.tv/) to control your [StepMania](https://www.stepmania.com/) game
 - Enables viewers to interact with your Stepmania game by redeeming channel points to enable mods; includes an integration with [Song Requests](https://github.com/DaveLinger/Stepmania-Stream-Tools).
 - Tech stack: Lua, Node.js
 
