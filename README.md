@@ -18,11 +18,11 @@ My hobbies are dynamic, and my curiosity leads me to pursue various interests. I
 
 ## Past Projects
 ### [**🕺 DanceTime**](https://dancetime.io) - Predecessor to [Kip](https://kip.dance/)
-- Web app that allows you to dance to any YouTube video and get a realtime score using [realtime pose estimation](https://dev.to/benank/realtime-pose-comparison-with-tensorflow-js-42lk) through [MoveNet](https://blog.tensorflow.org/2021/05/next-generation-pose-detection-with-movenet-and-tensorflowjs.html); all you need is a webcam to get started
+- Web app that allows you to dance along with any YouTube video and receive a realtime score using [realtime pose estimation](https://dev.to/benank/realtime-pose-comparison-with-tensorflow-js-42lk) through TensorFlow.js' [MoveNet](https://blog.tensorflow.org/2021/05/next-generation-pose-detection-with-movenet-and-tensorflowjs.html); all you need is a webcam to get started
 - Tech stack: [Svelte](https://svelte.dev), [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview), [Azure Static Web Apps](https://docs.microsoft.com/en-us/azure/static-web-apps/overview), [TensorFlow.js](https://www.tensorflow.org/), [a WebExtension](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions), MySQL, and more
 
 ### [**💯 everyone.dance**](https://everyone.dance/) - A realtime score sharing system for [StepMania](https://www.stepmania.com/)
-- Web app and cross-platform electron app that extends the base functionality of the StepMania game to allow for realtime online multiplayer dance matches
+- Web app and cross-platform Electron app that extends the base functionality of the StepMania game to allow for realtime online multiplayer dance matches
 - Tech stack: [React](https://reactjs.org/), [Electron](https://www.electronjs.org/), [Express](https://expressjs.com/), [socket.io](https://socket.io/), and more
 
 ### [**🔨 oof**](https://github.com/Paradigm-MP/oof) - Object-Oriented Framework for developing with Lua in [FiveM](https://fivem.net/) and [RedM](https://redm.gg/)
@@ -30,7 +30,7 @@ My hobbies are dynamic, and my curiosity leads me to pursue various interests. I
 - Tech stack: Lua
 
 ### [**🍿 StepMania Stream Interactivity**](https://github.com/benank/Stepmania-Stream-Interactivity) - Allow your viewers on [Twitch](twitch.tv/) to control your [StepMania](https://www.stepmania.com/) game
-- Enables viewers to interact with your Stepmania game by redeeming channel points to enable mods; includes an integration with [Song Requests](https://github.com/DaveLinger/Stepmania-Stream-Tools).
+- Enables viewers to interact with your StepMania game by redeeming channel points to enable mods; includes an integration with [Song Requests](https://github.com/DaveLinger/Stepmania-Stream-Tools).
 - Tech stack: Lua, Node.js
 
 
